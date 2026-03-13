@@ -59,3 +59,7 @@ e exiba a média final
 ## 📊 Conclusão
 
  Esta atividade ajudou a entender como usar fluxogramas para organizar o raciocínio lógico, realizar cálculos e tomar decisões em um algoritmo de forma clara e simples.
+
+ ## 💾 Tecnologias utilizadas 
+ utilizei o flowgorithm e o git/github
+ 
