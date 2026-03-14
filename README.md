@@ -61,5 +61,5 @@ e exiba a média final
  Esta atividade ajudou a entender como usar fluxogramas para organizar o raciocínio lógico, realizar cálculos e tomar decisões em um algoritmo de forma clara e simples.
 
  ## 💾 Tecnologias utilizadas 
- Flowgorithm e o git/github
+ Flowgorithm e  o git/github
  
